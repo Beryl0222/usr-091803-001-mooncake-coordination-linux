@@ -1,0 +1,7 @@
+{
+  "name": "mooncake-coordination",
+  "private": true,
+  "scripts": {
+    "test": "node test_service.js"
+  }
+}
